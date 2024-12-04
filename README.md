@@ -1,6 +1,6 @@
 # pizzabeans
 
-A new Flutter project.
+A new Pizza App project.
 
 ## Getting Started
 
